@@ -1,3 +1,1 @@
 - 👩 Hi, I’m Rajie.
-- 🌱I strive to create websites that are not only visually appealing but also easy to navigate, ensuring a seamless user experience.
-- 📖 I'm currently working on Frontend development projects while simultaenously learning and improving myself in this field.
